@@ -1,0 +1,15 @@
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Debug\Figuras.exe
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Debug\Figuras.pdb
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+c:\users\luisz\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
+C:\Users\vladi\Downloads\Figuras\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+C:\Users\vladi\Downloads\Figuras\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
+C:\Users\vladi\Downloads\Figuras\Figuras\Figuras\obj\x86\Debug\Figuras.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Downloads\Figuras\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
+C:\Users\vladi\Downloads\Figuras\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
+C:\Users\vladi\Downloads\Figuras\Figuras\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache
