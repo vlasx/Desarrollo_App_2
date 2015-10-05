@@ -1,0 +1,17 @@
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\bin\Debug\App1-Sonidos.exe
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\bin\Debug\App1-Sonidos.pdb
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1_Sonidos.Form1.resources
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1_Sonidos.Properties.Resources.resources
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1-Sonidos.exe
+C:\Users\AP\Desktop\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1-Sonidos.pdb
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1-Sonidos.exe
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1-Sonidos.pdb
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\bin\Debug\App1-Sonidos.exe
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\bin\Debug\App1-Sonidos.pdb
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1_Sonidos.Form1.resources
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1_Sonidos.Properties.Resources.resources
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1-Sonidos.csproj.GenerateResource.Cache
+C:\Users\nayck\Downloads\App1-Sonidos\App1-Sonidos\App1-Sonidos\obj\x86\Debug\App1-Sonidos.csprojResolveAssemblyReference.cache
