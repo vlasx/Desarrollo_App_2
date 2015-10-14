@@ -1,0 +1,14 @@
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.Properties.Resources.resources
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.GenerateResource.Cache
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.pdb
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.FrmPrincipal.resources
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.Controlador.FrmProducto.resources
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.Controlador.FrmAdministrador.resources
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.Controlador.FrmCliente.resources
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.Controlador.FrmAddCliente.resources
+C:\Users\vladi\Desktop\Ejercicio_1_Progra_4A\ejercicio\ejercicio\obj\Debug\ejercicio.Controlador.FrmAddProductos.resources
