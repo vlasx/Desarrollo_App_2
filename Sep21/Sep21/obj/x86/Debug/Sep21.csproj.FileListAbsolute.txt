@@ -1,0 +1,21 @@
+C:\Users\CISCO\Desktop\Sep21\Sep21\bin\Debug\Sep21.exe
+C:\Users\CISCO\Desktop\Sep21\Sep21\bin\Debug\Sep21.pdb
+C:\Users\CISCO\Desktop\Sep21\Sep21\obj\x86\Debug\Sep21.Form1.resources
+C:\Users\CISCO\Desktop\Sep21\Sep21\obj\x86\Debug\Sep21.Properties.Resources.resources
+C:\Users\CISCO\Desktop\Sep21\Sep21\obj\x86\Debug\Sep21.csproj.GenerateResource.Cache
+C:\Users\CISCO\Desktop\Sep21\Sep21\obj\x86\Debug\Sep21.exe
+C:\Users\CISCO\Desktop\Sep21\Sep21\obj\x86\Debug\Sep21.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\obj\x86\Debug\Sep21.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\obj\x86\Debug\Sep21.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\bin\Debug\Sep21.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\bin\Debug\Sep21.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\obj\x86\Debug\Sep21.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\obj\x86\Debug\Sep21.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Sep21--Completo\Sep21\Sep21\obj\x86\Debug\Sep21.csproj.GenerateResource.Cache
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\obj\x86\Debug\Sep21.exe
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\obj\x86\Debug\Sep21.pdb
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\bin\Debug\Sep21.exe
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\bin\Debug\Sep21.pdb
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\obj\x86\Debug\Sep21.Form1.resources
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\obj\x86\Debug\Sep21.Properties.Resources.resources
+C:\Users\vladi\Downloads\Pila-Cola\Sep21\Sep21\obj\x86\Debug\Sep21.csproj.GenerateResource.Cache
