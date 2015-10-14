@@ -1,0 +1,23 @@
+C:\Users\CISCO\Desktop\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\Users\CISCO\Desktop\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\Users\CISCO\Desktop\Directorio\Directorio\obj\x86\Debug\Directorio.Form1.resources
+C:\Users\CISCO\Desktop\Directorio\Directorio\obj\x86\Debug\Directorio.Properties.Resources.resources
+C:\Users\CISCO\Desktop\Directorio\Directorio\obj\x86\Debug\Directorio.csproj.GenerateResource.Cache
+C:\Users\CISCO\Desktop\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+C:\Users\CISCO\Desktop\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\obj\x86\Debug\Directorio.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\obj\x86\Debug\Directorio.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Directorio\Directorio\obj\x86\Debug\Directorio.csproj.GenerateResource.Cache
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\obj\x86\Debug\Directorio.Form1.resources
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\obj\x86\Debug\Directorio.Properties.Resources.resources
+C:\Users\vladi\Downloads\Directorio\Directorio\Directorio\obj\x86\Debug\Directorio.csproj.GenerateResource.Cache
+C:\Users\vladi\Desarrollo de App 2\Desarrollo_App_2\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+C:\Users\vladi\Desarrollo de App 2\Desarrollo_App_2\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
